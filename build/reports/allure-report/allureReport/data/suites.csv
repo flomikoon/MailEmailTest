@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jan 08 18:55:43 MSK 2023","Sun Jan 08 18:55:49 MSK 2023","6372","All Test Suite","C:/Users/flomi/IdeaProjects/MailEmailTest","mailtests.LoginTest","mailtests.LoginTest","successLogin","successLogin",""
